@@ -2,7 +2,7 @@
   <img src="./assets/iw-logo.png" width=200 />
 </p>
 
-# InventoryWatch Feedback and Bug 🐛
+# InventoryWatch Feedback and Bugs 🐛
 
 Thanks for using [InventoryWatch](https://inventorywatch.app)! You can use this repo to report bugs and issues, submit feedback, or discuss feature requests. 
 
