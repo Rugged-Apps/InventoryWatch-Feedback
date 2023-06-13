@@ -16,4 +16,4 @@ Then, go to the “Issues” tab at the top of this page, then select “New Iss
 
 Github is great, super accessible software that anyone can use. By tracking InventoryWatch feedback and bugs here, we can keep things organized, reduce spam, and link relevant InventoryWatch development directly to the relevant issues in this repo. Give it a shot!
 
-GitHub's an awesome site that's really well-suited for bug tracking. It'll keep things more organized than having bug bug discussions, feature requests, memes, announcement posts, and more all in the subreddit. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it, trust me! [Sign Up](https://github.com/)
+[Sign up for a Github Account](https://github.com/)
